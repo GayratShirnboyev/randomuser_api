@@ -9,4 +9,7 @@ class User {
   String? date;
   String? city;
   String? country;
+  // Constructor
+  // constructor to convert the JSON to User object
+
 }
